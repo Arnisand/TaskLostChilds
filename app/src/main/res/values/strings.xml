@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TaskLostChilds</string>
+    <string name="str_login">LOGIN </string>
+    <string name="login">login </string>
+    <string name="password">password </string>
+    <string name="age">AGE: </string>
+    <string name="gender">GENDER: </string>
+    <string name="status">STATUS: </string>
+    <string name="date_of_birth">DATE OF BIRTH: </string>
+    <string name="name">NAME: </string>
+    <string name="region">REGION: </string>
+    <string name="child_description">CHILD DESCRIPTION: </string>
+    <string name="time_of_loss">TIME OF LOSS: </string>
+    <string name="situation">SITUATION: </string>
+    <string name="time_of_request">TIME OF REQUEST: </string>
+    <string name="date">DATE:</string>
+</resources>
